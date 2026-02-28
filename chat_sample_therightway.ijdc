@@ -1,0 +1,33 @@
+version:ijdc 1.2
+record_type:chat_export
+exported_by:SampleChatApp v2.1
+exported_at:2026-02-28T18:44:00Z
+conversation_id:conv_9a3f2b
+conversation_title:Planning a road trip
+participants:<<^user:maya_j|agent:TravelBot^>>
+message_count:6
+duration_seconds:312
+language:en
+user_id:usr_00482
+user_name:Maya Johnson
+user_email:maya@example.com
+user_timezone:America/Detroit
+user_tag:road-trip
+user_tag:travel-planning
+user_tag:midwest
+settings:<<^model:TravelBot-3|temperature:0.7|max_tokens:1024|stream:true^>>
+message:<<^id:msg_001|role:user|ts:2026-02-28T18:30:00Z|content:I want to drive from Detroit to Nashville. What is the best route?^>>
+message:<<^id:msg_002|role:agent|ts:2026-02-28T18:30:18Z|content:The most popular route is I-75 South to I-24 West — about 9 hours without stops. Would you like suggestions for stops along the way?^>>
+message:<<^id:msg_003|role:user|ts:2026-02-28T18:31:45Z|content:Yes please. We like hiking and good food.^>>
+message:<<^id:msg_004|role:agent|ts:2026-02-28T18:32:10Z|content:Great choices. I would suggest stopping in Lexington KY for lunch and hitting the Red River Gorge area for a short hike. Then continue south into Nashville for dinner on Broadway.^>>
+message:<<^id:msg_005|role:user|ts:2026-02-28T18:38:22Z|content:How long is the Red River Gorge detour?^>>
+message:<<^id:msg_006|role:agent|ts:2026-02-28T18:38:41Z|content:About 45 minutes off I-75. Worth every minute. The Natural Bridge trail is under 2 miles and has stunning views.^>>
+suggested_place:<<^name:Red River Gorge|type:hiking|state:KY|detour_minutes:45|rating:4.8^>>
+suggested_place:<<^name:Natural Bridge State Park|type:hiking|state:KY|trail_miles:1.8|rating:4.7^>>
+suggested_place:<<^name:Lexington Diner|type:food|city:Lexington KY|cuisine:Southern|rating:4.5^>>
+suggested_place:<<^name:Broadway Nashville|type:food+entertainment|city:Nashville TN|rating:4.9^>>
+agent_notes:<<^This route avoids toll roads on I-75.
+Gas stops recommended in Corbin KY and Cookeville TN.
+Nashville parking is easiest in the 2nd Ave garage on weekends.^>>
+feedback_rating:5
+feedback_comment:Super helpful, exactly what I needed.
