@@ -1,2 +1,25 @@
-# ijdc
-A portable flat-file data container format (.ijdc) for structured, array, and freeform data. Human-readable, language-agnostic, delimiter-based. Designed for data portability, e-signature systems, and AI passport records. Possible replacement for .json. Spec: IJDC-SPEC-1.2. Author: Juanita Chronowski.
+        \\
+         \\
+          \\
+           \\
+            >\/7
+        _.-(6'  \
+       (=___._/` \
+            )  \ |
+           /   / |
+          /    > /
+         j    < _\
+     _.-' :      ``.
+     \ r=._\        `.
+    <`\\_  \         .`-.
+     \ r-7  `-. ._  ' .  `\
+      \`,      `-.`7  7)   )
+       \/         \|  \'  / `-._
+                  ||    .'
+                   \\  (
+                    >\  >
+                ,.-' >.'
+               <.'_.''
+                 <'
+There was a Unicorn.
+And now this folder is blessed.
