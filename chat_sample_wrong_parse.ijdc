@@ -1,6 +1,7 @@
 version:ijdc 1.2
 record_type:chat_export
 dev_comments:<<^Because everyone is asking how you do comments in ijdc. The answer, anyway you want^>>
+dev_comments:<<^the working file with a sample AI chat including code section is named recipe_chat.ijdc for the correct working syntax see that file and the parser^>>
 juanita_says:<<^As a matter of fact any field can be a comment. the thing that determins that is the code you use to display and write the file. You set your parameters^>>
 exported_by:SampleChatApp v2.1
 exported_at:2026-02-28T18:44:00Z
