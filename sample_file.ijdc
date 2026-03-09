@@ -1,0 +1,15 @@
+version:ijdc 1.4
+record_type:user_profile
+user_id:100000003
+dev_comment: This can be any comment
+my_comment: This can also be any comment
+general_comment: If you don't want them to show simply do not call them
+more_comments: You can also call them as <!-- comments --> or // comments    
+python_comment: or  # these commentsor these ''' inside of your chosen codeing language
+nickname:Unicorn
+soc_link:www.jack-in.com
+soc_link:facebook.com/juanitac
+soc_link:twitter.com/jchronowski47
+call_transcribed:<<^ some stuff here <img width="20" src='logo.png'> even html^>>
+address:<<^number:123 street|city:Detroit|state:MI|zip:48211^>>
+book:<<^title:The Red Tent|content:(^(The books description here and maybe some code &lt;strong&gt;bold&lt;/strong&gt;)^)^>>
